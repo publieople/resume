@@ -1,0 +1,122 @@
+{
+  "titleNameMap": {
+    "educationList": "教育背景",
+    "workExpList": "工作经历",
+    "projectList": "项目经验",
+    "skillList": "个人技能",
+    "awardList": "更多信息",
+    "workList": "个人作品",
+    "aboutme": "个人评价"
+  },
+  "avatar": {
+    "src": "",
+    "hidden": true
+  },
+  "profile": {
+    "name": "冯周杰",
+    "email": "",
+    "mobile": "14759026314",
+    "github": "https://github.com/publieople",
+    "zhihu": "",
+    "workExpYear": ""
+  },
+  "educationList": [
+    {
+      "edu_time": ["2024", "至今"],
+      "school": "上海中侨职业技术大学",
+      "major": "人工智能",
+      "academic_degree": "本科"
+    }
+  ],
+  "awardList": [
+    {
+      "award_info": "五一数学建模竞赛 — 二等奖",
+      "award_time": "2025"
+    },
+    {
+      "award_info": "中青杯 — 二等奖",
+      "award_time": "2025"
+    },
+    {
+      "award_info": "数维杯数学建模竞赛 — 三等奖",
+      "award_time": "2025"
+    },
+    {
+      "award_info": "数维杯数学建模竞赛 — 优胜奖",
+      "award_time": "2024"
+    },
+    {
+      "award_info": "工行杯 — 三等奖",
+      "award_time": "2024"
+    },
+    {
+      "award_info": "全国高职高专院校信息素养大赛 — 优胜奖",
+      "award_time": "2024"
+    }
+  ],
+  "workExpList": [],
+  "skillList": [
+    {
+      "skill_name": "前端开发",
+      "skill_desc": "HTML / CSS / JavaScript，TypeScript，React（Shadcn，MagicUI），Vue，Tailwind CSS"
+    },
+    {
+      "skill_name": "编程语言",
+      "skill_desc": "Python 基础脚本与数据处理，TypeScript"
+    },
+    {
+      "skill_name": "工具与运维",
+      "skill_desc": "Git 版本控制，Docker/Podman 容器化，Linux（Ubuntu/Arch），WSL，Windows 效率工具链（WGestures，Quicker，AutoHotkey，PowerToys）"
+    },
+    {
+      "skill_name": "AI 与内容创作",
+      "skill_desc": "VSCode + Copilot / Cline，Cursor，Trae，iFlow CLI 辅助编程；SD WebUI，ComfyUI；n8n 自动化"
+    },
+    {
+      "skill_name": "办公与文档",
+      "skill_desc": "Word / Excel / PPT，结合 AI 提升撰写与排版效率"
+    },
+    {
+      "skill_name": "知识管理",
+      "skill_desc": "Notion 体系化知识与项目管理（Dashboard · 账本 · 人脉 · Blog）"
+    }
+  ],
+  "projectList": [
+    {
+      "project_name": "具身智能实验室 AI 基础设施",
+      "project_role": "终端服务部部长",
+      "project_time": "2024 — 至今",
+      "project_desc": "负责实验室 AI 基础设施运维，支撑 LLM+TTS+ASR 多模态服务的模型部署与全链路交付。",
+      "project_content": "管理服务器集群，部署 Ollama、vLLM、ComfyUI 等大模型推理框架；整合 Coze Studio、Fay 数字人等工具链，实现从模型部署到前端交互的全链路交付；规划"终端基础 + 现代 Web 全栈"技术培训课程，沉淀运维文档与最佳实践。"
+    },
+    {
+      "project_name": "人工智能学习小组",
+      "project_role": "主要开发负责人",
+      "project_time": "2024 — 至今",
+      "project_desc": "组织人工智能书籍研读与知识分享，搭建智能体辅助学习。",
+      "project_content": "策划并组织人工智能书籍研读会与分享；使用 Coze 平台搭建"西瓜书阅读助手"智能体；组织与参与多项竞赛，推进成员协作与分工。"
+    },
+    {
+      "project_name": "产研社技术分享",
+      "project_role": "基准部部长",
+      "project_time": "2024 — 至今",
+      "project_desc": "组织社员内部培训与技术交流，分享生产实践经验。",
+      "project_content": "组织社员内部培训与技术交流；分享生产实践经验，沉淀提效方法论；对外开展技术讲座与交流活动。"
+    },
+    {
+      "project_name": "响应式个人主页",
+      "project_role": "独立开发",
+      "project_time": "2024",
+      "project_desc": "多端自适应的个人站点，聚合作品、博客与联系方式。",
+      "project_content": "负责信息架构与 UI 设计，前端开发与部署优化。Lighthouse 性能与可访问性高分，通过懒加载与资源压缩显著降低首屏时间。"
+    }
+  ],
+  "workList": [],
+  "aboutme": {
+    "aboutme_desc": "关注效率方法与工具链打磨，善于将复杂问题拆解为可执行步骤。热爱计算机与 ACGN 文化，乐于学习与分享。对 AI 工具的应用与开发有浓厚兴趣，具备从模型部署到前端交互的全链路实践经验。MBTI：INTP / INTJ"
+  },
+  "theme": {
+    "color": "#1677ff",
+    "tagColor": "#52c41a"
+  }
+}
