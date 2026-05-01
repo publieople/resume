@@ -66,7 +66,7 @@
   "skillList": [
     {
       "skill_name": "AI 全栈能力",
-      "skill_desc": "Hermes Agent（AI 智能体编排与管理）、OpenClaw 个人 AI 助手平台、Claude Code（ACP 协议代理）；Ollama / vLLM / ComfyUI 推理框架部署，Coze 智能体搭建，SD WebUI，n8n 工作流自动化，OpenAI / 通义千问 API 调用"
+      "skill_desc": "Hermes Agent（AI 智能体编排与管理）、OpenClaw 个人 AI 助手平台；ComfyUI / SD WebUI / Ollama / vLLM 大模型推理部署，Coze 智能体搭建，n8n 工作流自动化，OpenAI / 通义千问 API 调用"
     },
     {
       "skill_name": "编程与前端",
