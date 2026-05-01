@@ -127,13 +127,6 @@
       "project_time": "2024 — 至今",
       "project_desc": "组织社员内部培训与技术交流，分享生产实践经验与提效方法论。",
       "project_content": "组织社员内部培训与技术交流；分享生产实践经验，沉淀提效方法论；对外开展技术讲座与交流活动。"
-    },
-    {
-      "project_name": "响应式个人主页 & 工具项目",
-      "project_role": "独立开发",
-      "project_time": "2024",
-      "project_desc": "多端自适应的个人站点 + 多个效率小工具（ChatGPT+AutoHotkey 文本处理、Bangumi 追番通知、抢购脚本等）。",
-      "project_content": "响应式个人主页（for-people.cn）信息架构与前端开发；ChatGPT-AutoHotkey 工具（调用 API 处理选中文本）；Bangumi 追番通知系统（每日自动推送至飞书）；WGestures 鼠标手势方案调研与复刻。"
     }
   ],
   "workList": [],
