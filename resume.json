@@ -14,7 +14,7 @@
   },
   "profile": {
     "name": "冯周杰",
-    "email": "",
+    "email": "publieople@outlook.com",
     "mobile": "14759026314",
     "github": "https://github.com/publieople",
     "zhihu": "",
@@ -57,31 +57,56 @@
   "workExpList": [],
   "skillList": [
     {
+      "skill_name": "AI Agent 框架",
+      "skill_desc": "Hermes Agent（AI 智能体编排与管理）、OpenClaw 个人 AI 助手平台、Claude Code（ACP 协议代理）、Cline / Copilot 辅助编程"
+    },
+    {
       "skill_name": "前端开发",
       "skill_desc": "HTML / CSS / JavaScript，TypeScript，React（Shadcn，MagicUI），Vue，Tailwind CSS"
     },
     {
       "skill_name": "编程语言",
-      "skill_desc": "Python 基础脚本与数据处理，TypeScript"
+      "skill_desc": "Python 脚本与数据处理，TypeScript / JavaScript"
     },
     {
       "skill_name": "工具与运维",
       "skill_desc": "Git 版本控制，Docker/Podman 容器化，Linux（Ubuntu/Arch），WSL，Windows 效率工具链（WGestures，Quicker，AutoHotkey，PowerToys）"
     },
     {
-      "skill_name": "AI 与内容创作",
-      "skill_desc": "VSCode + Copilot / Cline，Cursor，Trae，iFlow CLI 辅助编程；SD WebUI，ComfyUI；n8n 自动化"
+      "skill_name": "AI 模型与应用",
+      "skill_desc": "Ollama / vLLM / ComfyUI 推理框架部署，Coze 智能体搭建，SD WebUI，n8n 工作流自动化，OpenAI / 通义千问 API 调用"
     },
     {
-      "skill_name": "办公与文档",
-      "skill_desc": "Word / Excel / PPT，结合 AI 提升撰写与排版效率"
+      "skill_name": "技术写作与内容创作",
+      "skill_desc": "技术博客撰写与运营（NotionNext + Vercel），Photoshop / Illustrator，AIGC 视觉内容生成"
     },
     {
       "skill_name": "知识管理",
-      "skill_desc": "Notion 体系化知识与项目管理（Dashboard · 账本 · 人脉 · Blog）"
+      "skill_desc": "Notion 体系化知识管理（Dashboard · 账本 · 人脉 · 博客），Notion API 集成开发"
     }
   ],
   "projectList": [
+    {
+      "project_name": "个人 AI Agent 生态系统",
+      "project_role": "独立搭建与运维",
+      "project_time": "2025 — 至今",
+      "project_desc": "搭建并维护以 Hermes Agent 和 OpenClaw 为核心的 AI 个人助手系统，实现跨平台、多终端的 AI 辅助工作流。",
+      "project_content": "配置 Hermes Agent 智能体框架（cron 任务调度、Skills 模块管理、跨会话记忆系统）；搭建 OpenClaw 个人 AI 平台（多通道对接 CLI/飞书/Telegram）；编写自动化运维脚本实现日常健康检查、工作区清理与记忆维护；沉淀百余个 AI 工具链 Skills 技能模块。"
+    },
+    {
+      "project_name": "个人技术博客",
+      "project_role": "独立运营",
+      "project_time": "2025 — 至今",
+      "project_desc": "基于 NotionNext（NextJS + Notion API）搭建技术博客，部署于 Vercel，持续输出 AI、效率工具与生产力相关教程。",
+      "project_content": "使用 Notion 作为 CMS，通过 Notion API 实现文章管理与渲染；撰写「AI 带来了什么」「如何提高工作效率」「WSL Arch 配置」「操作系统安装」「正则表达式工具」等技术教程；通过 Notion 数据看板管理文章选题与发布节奏。"
+    },
+    {
+      "project_name": "开箱即用 AI 教学平台（open-teachpilot）",
+      "project_role": "主要开发",
+      "project_time": "2026",
+      "project_desc": "面向初学者的用户友好型 AI 交互界面，支持 Ollama / OpenAI API 等多种后端。",
+      "project_content": "开发前后端 AI 教学演示平台，支持多模型后端切换（Ollama、OpenAI、通义千问），降低 AI 工具入门门槛，适用于课堂教学与社团培训场景。"
+    },
     {
       "project_name": "具身智能实验室 AI 基础设施",
       "project_role": "终端服务部部长",
@@ -93,27 +118,27 @@
       "project_name": "人工智能学习小组",
       "project_role": "主要开发负责人",
       "project_time": "2024 — 至今",
-      "project_desc": "组织人工智能书籍研读与知识分享，搭建智能体辅助学习。",
+      "project_desc": "组织人工智能书籍研读与知识分享，搭建智能体辅助学习工具。",
       "project_content": "策划并组织人工智能书籍研读会与分享；使用 Coze 平台搭建「西瓜书阅读助手」智能体；组织与参与多项竞赛，推进成员协作与分工。"
     },
     {
       "project_name": "产研社技术分享",
       "project_role": "基准部部长",
       "project_time": "2024 — 至今",
-      "project_desc": "组织社员内部培训与技术交流，分享生产实践经验。",
+      "project_desc": "组织社员内部培训与技术交流，分享生产实践经验与提效方法论。",
       "project_content": "组织社员内部培训与技术交流；分享生产实践经验，沉淀提效方法论；对外开展技术讲座与交流活动。"
     },
     {
-      "project_name": "响应式个人主页",
+      "project_name": "响应式个人主页 & 工具项目",
       "project_role": "独立开发",
       "project_time": "2024",
-      "project_desc": "多端自适应的个人站点，聚合作品、博客与联系方式。",
-      "project_content": "负责信息架构与 UI 设计，前端开发与部署优化。Lighthouse 性能与可访问性高分，通过懒加载与资源压缩显著降低首屏时间。"
+      "project_desc": "多端自适应的个人站点 + 多个效率小工具（ChatGPT+AutoHotkey 文本处理、Bangumi 追番通知、抢购脚本等）。",
+      "project_content": "响应式个人主页（for-people.cn）信息架构与前端开发；ChatGPT-AutoHotkey 工具（调用 API 处理选中文本）；Bangumi 追番通知系统（每日自动推送至飞书）；WGestures 鼠标手势方案调研与复刻。"
     }
   ],
   "workList": [],
   "aboutme": {
-    "aboutme_desc": "关注效率方法与工具链打磨，善于将复杂问题拆解为可执行步骤。热爱计算机与 ACGN 文化，乐于学习与分享。对 AI 工具的应用与开发有浓厚兴趣，具备从模型部署到前端交互的全链路实践经验。MBTI：INTP / INTJ"
+    "aboutme_desc": "关注 AI 工具应用、自动化与效率工程，善于将复杂问题拆解为可执行步骤。对 AI Agent 框架（Hermes Agent、OpenClaw）有深度实践，具备从模型部署到前端交互的全链路能力。热爱计算机与 ACGN 文化，乐于学习与分享，持续通过技术博客输出 AI 与生产力相关内容。MBTI：INTP / INTJ"
   },
   "theme": {
     "color": "#1677ff",
