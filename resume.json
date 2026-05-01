@@ -113,7 +113,7 @@
   ],
   "workList": [],
   "aboutme": {
-    "aboutme_desc": "关注 AI 工具应用、自动化与效率工程，善于将复杂问题拆解为可执行步骤。对 AI Agent 框架（Hermes Agent、OpenClaw）有深度实践，具备从模型部署到前端交互的全链路能力。热爱计算机与 ACGN 文化，相信好的工具能改变工作方式，致力于让 AI Agent 从「能用」变成「好用」。MBTI：INTP / INTJ"
+    "aboutme_desc": "具备快速学习与落地执行能力，善于将复杂技术问题拆解为可执行步骤并推动落地。在 AI Agent 框架（Hermes Agent、OpenClaw）和大模型部署（Ollama、vLLM、ComfyUI 等）方向有从理论到实践的完整闭环经验。热爱计算机与 ACGN 文化，相信好的工具能改变工作方式，致力于让 AI Agent 从「能用」变成「好用」。MBTI：INTP / INTJ"
   },
   "theme": {
     "color": "rgba(28, 30, 35, 1)",
