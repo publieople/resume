@@ -18,6 +18,7 @@
     "mobile": "14759026314",
     "github": "https://github.com/publieople",
     "zhihu": "",
+    "positionTitle": "AI 工具链开发与智能体应用 · 自动化效率工程",
     "workExpYear": ""
   },
   "educationList": [
@@ -101,13 +102,6 @@
       "project_content": "使用 Notion 作为 CMS，通过 Notion API 实现文章管理与渲染；撰写「AI 带来了什么」「如何提高工作效率」「WSL Arch 配置」「操作系统安装」「正则表达式工具」等技术教程；通过 Notion 数据看板管理文章选题与发布节奏。"
     },
     {
-      "project_name": "开箱即用 AI 教学平台（open-teachpilot）",
-      "project_role": "主要开发",
-      "project_time": "2026",
-      "project_desc": "面向初学者的用户友好型 AI 交互界面，支持 Ollama / OpenAI API 等多种后端。",
-      "project_content": "开发前后端 AI 教学演示平台，支持多模型后端切换（Ollama、OpenAI、通义千问），降低 AI 工具入门门槛，适用于课堂教学与社团培训场景。"
-    },
-    {
       "project_name": "具身智能实验室 AI 基础设施",
       "project_role": "终端服务部部长",
       "project_time": "2024 — 至今",
@@ -131,10 +125,10 @@
   ],
   "workList": [],
   "aboutme": {
-    "aboutme_desc": "关注 AI 工具应用、自动化与效率工程，善于将复杂问题拆解为可执行步骤。对 AI Agent 框架（Hermes Agent、OpenClaw）有深度实践，具备从模型部署到前端交互的全链路能力。热爱计算机与 ACGN 文化，乐于学习与分享，持续通过技术博客输出 AI 与生产力相关内容。MBTI：INTP / INTJ"
+    "aboutme_desc": "关注 AI 工具应用、自动化与效率工程，善于将复杂问题拆解为可执行步骤。对 AI Agent 框架（Hermes Agent、OpenClaw）有深度实践，具备从模型部署到前端交互的全链路能力。热爱计算机与 ACGN 文化，相信好的工具能改变工作方式，致力于让 AI Agent 从「能用」变成「好用」。MBTI：INTP / INTJ"
   },
   "theme": {
-    "color": "#1677ff",
-    "tagColor": "#52c41a"
+    "color": "#1E272E",
+    "tagColor": "#21E2CC"
   }
 }
