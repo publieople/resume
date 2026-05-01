@@ -14,11 +14,11 @@
   },
   "profile": {
     "name": "冯周杰",
-    "email": "publieople@outlook.com",
+    "email": "z2631792752@gmail.com",
     "mobile": "14759026314",
     "github": "https://github.com/publieople",
-    "zhihu": "",
-    "positionTitle": "AI 工具链开发与智能体应用 · 自动化效率工程",
+    "zhihu": "https://www.zhihu.com/people/2631792752",
+    "positionTitle": "AI 工具链开发与智能体应用 · 自动化效率工程师",
     "workExpYear": ""
   },
   "educationList": [
@@ -55,7 +55,20 @@
       "award_time": "2024"
     }
   ],
-  "workExpList": [],
+  "workExpList": [
+    {
+      "company_name": "个人技术博客",
+      "department_name": "独立运营",
+      "work_time": ["2025", "至今"],
+      "work_desc": "基于 NotionNext（NextJS + Notion API）搭建并运营技术博客，部署于 Vercel。撰写 AI、效率工具与生产力相关教程十余篇；通过 Notion 数据看板管理文章选题与发布节奏。"
+    },
+    {
+      "company_name": "人工智能学习小组",
+      "department_name": "主要开发负责人",
+      "work_time": ["2024", "至今"],
+      "work_desc": "策划组织人工智能书籍研读会与知识分享；使用 Coze 平台搭建智能体辅助学习工具；组织参与多项数模竞赛，推进成员协作与分工。"
+    }
+  ],
   "skillList": [
     {
       "skill_name": "AI Agent 框架",
@@ -95,25 +108,11 @@
       "project_content": "配置 Hermes Agent 智能体框架（cron 任务调度、Skills 模块管理、跨会话记忆系统）；搭建 OpenClaw 个人 AI 平台（多通道对接 CLI/飞书/Telegram）；编写自动化运维脚本实现日常健康检查、工作区清理与记忆维护；沉淀百余个 AI 工具链 Skills 技能模块。"
     },
     {
-      "project_name": "个人技术博客",
-      "project_role": "独立运营",
-      "project_time": "2025 — 至今",
-      "project_desc": "基于 NotionNext（NextJS + Notion API）搭建技术博客，部署于 Vercel，持续输出 AI、效率工具与生产力相关教程。",
-      "project_content": "使用 Notion 作为 CMS，通过 Notion API 实现文章管理与渲染；撰写「AI 带来了什么」「如何提高工作效率」「WSL Arch 配置」「操作系统安装」「正则表达式工具」等技术教程；通过 Notion 数据看板管理文章选题与发布节奏。"
-    },
-    {
       "project_name": "具身智能实验室 AI 基础设施",
       "project_role": "终端服务部部长",
       "project_time": "2024 — 至今",
       "project_desc": "负责实验室 AI 基础设施运维，支撑 LLM+TTS+ASR 多模态服务的模型部署与全链路交付。",
       "project_content": "管理服务器集群，部署 Ollama、vLLM、ComfyUI 等大模型推理框架；整合 Coze Studio、Fay 数字人等工具链，实现从模型部署到前端交互的全链路交付；规划「终端基础 + 现代 Web 全栈」技术培训课程，沉淀运维文档与最佳实践。"
-    },
-    {
-      "project_name": "人工智能学习小组",
-      "project_role": "主要开发负责人",
-      "project_time": "2024 — 至今",
-      "project_desc": "组织人工智能书籍研读与知识分享，搭建智能体辅助学习工具。",
-      "project_content": "策划并组织人工智能书籍研读会与分享；使用 Coze 平台搭建「西瓜书阅读助手」智能体；组织与参与多项竞赛，推进成员协作与分工。"
     },
     {
       "project_name": "产研社技术分享",
@@ -128,7 +127,7 @@
     "aboutme_desc": "关注 AI 工具应用、自动化与效率工程，善于将复杂问题拆解为可执行步骤。对 AI Agent 框架（Hermes Agent、OpenClaw）有深度实践，具备从模型部署到前端交互的全链路能力。热爱计算机与 ACGN 文化，相信好的工具能改变工作方式，致力于让 AI Agent 从「能用」变成「好用」。MBTI：INTP / INTJ"
   },
   "theme": {
-    "color": "#1E272E",
-    "tagColor": "#21E2CC"
+    "color": "rgba(28, 30, 35, 1)",
+    "tagColor": "rgba(33, 226, 204, 1)"
   }
 }
