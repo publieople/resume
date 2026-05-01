@@ -65,32 +65,20 @@
   ],
   "skillList": [
     {
-      "skill_name": "AI Agent 框架",
-      "skill_desc": "Hermes Agent（AI 智能体编排与管理）、OpenClaw 个人 AI 助手平台、Claude Code（ACP 协议代理）、Cline / Copilot 辅助编程"
+      "skill_name": "AI 全栈能力",
+      "skill_desc": "Hermes Agent（AI 智能体编排与管理）、OpenClaw 个人 AI 助手平台、Claude Code（ACP 协议代理）；Ollama / vLLM / ComfyUI 推理框架部署，Coze 智能体搭建，SD WebUI，n8n 工作流自动化，OpenAI / 通义千问 API 调用"
     },
     {
-      "skill_name": "前端开发",
-      "skill_desc": "HTML / CSS / JavaScript，TypeScript，React（Shadcn，MagicUI），Vue，Tailwind CSS"
-    },
-    {
-      "skill_name": "编程语言",
-      "skill_desc": "Python 脚本与数据处理，TypeScript / JavaScript"
+      "skill_name": "编程与前端",
+      "skill_desc": "HTML / CSS / JavaScript，TypeScript，React（Shadcn，MagicUI），Vue，Tailwind CSS，Python 脚本与数据处理"
     },
     {
       "skill_name": "工具与运维",
       "skill_desc": "Git 版本控制，Docker/Podman 容器化，Linux（Ubuntu/Arch），WSL，Windows 效率工具链（WGestures，Quicker，AutoHotkey，PowerToys）"
     },
     {
-      "skill_name": "AI 模型与应用",
-      "skill_desc": "Ollama / vLLM / ComfyUI 推理框架部署，Coze 智能体搭建，SD WebUI，n8n 工作流自动化，OpenAI / 通义千问 API 调用"
-    },
-    {
-      "skill_name": "技术写作与内容创作",
-      "skill_desc": "技术博客撰写与运营（NotionNext + Vercel），Photoshop / Illustrator，AIGC 视觉内容生成"
-    },
-    {
-      "skill_name": "知识管理",
-      "skill_desc": "Notion 体系化知识管理（Dashboard · 账本 · 人脉 · 博客），Notion API 集成开发"
+      "skill_name": "知识管理与技术写作",
+      "skill_desc": "Notion 体系化知识管理（Dashboard · 账本 · 人脉 · 博客），Notion API 集成开发，技术博客运营（NotionNext + Vercel），AIGC 视觉内容生成"
     }
   ],
   "projectList": [
