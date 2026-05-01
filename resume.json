@@ -114,6 +114,13 @@
       "project_time": "2025 — 至今",
       "project_desc": "基于 NotionNext（NextJS + Notion API）搭建技术博客，部署于 Vercel，持续输出 AI、效率工具与生产力相关教程。",
       "project_content": "使用 Notion 作为 CMS，通过 Notion API 实现文章管理与渲染；撰写「AI 带来了什么」「如何提高工作效率」「WSL Arch 配置」「操作系统安装」「正则表达式工具」等技术教程；通过 Notion 数据看板管理文章选题与发布节奏。"
+    },
+    {
+      "project_name": "人工智能学习小组",
+      "project_role": "主要开发负责人",
+      "project_time": "2024 — 至今",
+      "project_desc": "组织人工智能书籍研读与知识分享，搭建智能体辅助学习工具。",
+      "project_content": "策划并组织人工智能书籍研读会与分享；使用 Coze 平台搭建「西瓜书阅读助手」智能体；组织与参与多项竞赛，推进成员协作与分工。"
     }
   ],
   "workList": [],
